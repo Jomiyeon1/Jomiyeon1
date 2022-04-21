@@ -4,8 +4,8 @@
 
 
 
-  <a href="https://github.com/Jomiyeon1/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jomiyeon1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" width="50%" height="50%"/></a>  
-  <a href="https://github.com/KyungHoAn/github-readme-stats">
+  <a href="https://github.com/Jomiyeon1/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jomiyeon1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" width="50%" height="45%"/></a>  
+  <a href="https://github.com/Jomiyeon1/github-readme-stats">
   <img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHoAn&layout=compact&theme=buefy&hide_border=true" width="35%" height="40%"/></a>
 
 
