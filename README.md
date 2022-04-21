@@ -1,4 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MIYEON😎&fontSize=70)
+
 ### Hi there 👋
+
+
+
+  <a href="https://github.com/Jomiyeon1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jomiyeon1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/KyungHoAn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomiyeon1&layout=compact&theme=buefy&hide_border=true" /></a> 
+
 
 <!--
 **Jomiyeon1/Jomiyeon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
