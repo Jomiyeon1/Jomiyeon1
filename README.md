@@ -3,6 +3,10 @@
 <!-- ### Hi there 👋 -->
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=35&color=F7BD5A&center=true&vCenter=true&lines=Welcome+to+my+github!)](https://git.io/typing-svg)
+
+
+<br/><br/>
 
   <a href="https://github.com/Jomiyeon1/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jomiyeon1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" width="50%" height="45%"/></a>  
   <a href="https://github.com/Jomiyeon1/github-readme-stats">
