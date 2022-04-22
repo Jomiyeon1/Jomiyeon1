@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MIYEON😎&fontSize=70)
 
 <!-- ### Hi there 👋 -->
-
+ 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=35&color=F7BD5A&center=true&vCenter=true&lines=Welcome+to+my+github!)](https://git.io/typing-svg)
 
