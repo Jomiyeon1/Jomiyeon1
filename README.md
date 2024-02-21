@@ -3,7 +3,7 @@
 <!-- ### Hi there 👋 -->
  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Miyeon+GitHub!+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=50&pause=1000&color=943ABA&background=FFFFFF00&center=true&vCenter=true&width=600&linesWelcome+to+Miyeon+GitHub!+:D)](https://git.io/typing-svg)
 
 
 <br/><br/>
