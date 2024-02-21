@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MIYEON😎&fontSize=70)
 
 <!-- ### Hi there 👋 -->
- 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=50&pause=1000&color=943ABA&background=FFFFFF00&center=true&vCenter=true&width=600&linesWelcome+to+Miyeon+GitHub!+:D)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=50&pause=1000&color=943ABA&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Welcome+to+Miyeon+GitHub!+:D)](https://git.io/typing-svg)
 
 <br/><br/>
 
